@@ -4,7 +4,7 @@ module{
   public let defaultConfig = func(caller: Principal) : ICRC7.InitArgs{
       ?{
         symbol = ?"BALLS";
-        name = ?"BALLSUSSY";
+        name = ?"BALLS";
         description = ?"pee is stored in the balls";
         logo = ?"https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg";
         supply_cap = null;
