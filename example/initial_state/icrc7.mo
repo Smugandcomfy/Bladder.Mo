@@ -3,9 +3,9 @@ import ICRC7 "mo:icrc7-mo";
 module{
   public let defaultConfig = func(caller: Principal) : ICRC7.InitArgs{
       ?{
-        symbol = ?"NBL";
-        name = ?"NASA Nebulas";
-        description = ?"A Collection of Nebulas Captured by NASA";
+        symbol = ?"BALLS";
+        name = ?"BALLSUSSY";
+        description = ?"pee is stored in the balls";
         logo = ?"https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg";
         supply_cap = null;
         allow_transfers = null;
