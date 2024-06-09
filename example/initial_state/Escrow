@@ -1,0 +1,1 @@
+  public func get_escrow_account_info(request : MigrationTypes.Current.EscrowReceipt, host : Principal) : Types.SubAccountInfo {
