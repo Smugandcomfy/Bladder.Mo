@@ -1,4 +1,7 @@
-# icrc_nft.mo
+# Bladder.mo
+
+nft implementation of icrc 7/37/3 with an added escrow function. 
+nft owner can escrow with a unique-to-nft adress via a query endpoint. 
 
 ## Install
 ```
