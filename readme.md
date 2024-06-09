@@ -23,6 +23,7 @@ This will produce an NFT canister with the default config.  For more fine graine
 - ICRC3 - Transaction Log and Archive - https://github.com/PanIndustrial-Org/icrc37.mo
 - ICRC7 - Base NFT - https://github.com/PanIndustrial-Org/icrc7.mo
 - ICRC37 - Approval workflow - https://github.com/PanIndustrial-Org/icrc37.mo
+- origyn_nft - escrow framework
 
 A sample deployment/functional script is provided in deploy.sh in the example folder.
 
