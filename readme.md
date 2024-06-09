@@ -31,9 +31,11 @@ A sample deployment/functional script is provided in deploy.sh in the example fo
 
 For sample minting, burning, approval, transfer functions, please see the deploy.sh file in the examples folder.
 
-Further availability of functionality can be referenced in earlier referenced documentation.
+Further availability of functionality of the wallet festure is coming.
 
 ## Documentation
+
+in development
 
 Pre-compiled docs can be found on mops.one at:
 
