@@ -1,1 +1,8 @@
+  /**
+    * Retrieves information about an escrow account for an Origyn NFT transaction.
+    * @param {Types.EscrowReceipt} request - The request object containing transaction details.
+    * @param {Principal} host - The host of the sub-account.
+    * @returns {Types.SubAccountInfo} An object containing information about the escrow sub-account.
+    */
   public func get_escrow_account_info(request : MigrationTypes.Current.EscrowReceipt, host : Principal) : Types.SubAccountInfo {
+
